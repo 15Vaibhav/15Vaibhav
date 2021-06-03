@@ -26,13 +26,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@15vaibhav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="15vaibhav" height="30" width="40" /></a>
-<a href="https://twitter.com/vp612512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="vp612512" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/15vaibhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="15vaibhav" height="30" width="40" /></a>
-<a href="https://medium.com/@15vaibhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@15vaibhav" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vaibtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="vaibtech" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@vp612512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="@vp612512" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vp612512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="vp612512" height="30" width="40" /></a>
-<a href="/https://15vaibhav.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/rss.svg" alt="https://15vaibhav.medium.com/" height="30" width="40" /></a>
+<a href="https://twitter.com/vp612512" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="vp612512" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/15vaibhav" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="15vaibhav" height="30" width="40" /></a>
+<a href="https://medium.com/@15vaibhav" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="@15vaibhav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
